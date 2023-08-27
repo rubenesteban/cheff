@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "998339062661",
+    "project_id": "before-fly",
+    "storage_bucket": "before-fly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998339062661:android:e31081c78b0b313fbeb2ec",
+        "android_client_info": {
+          "package_name": "com.abeja.cheff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998339062661-h1mlpnij5qva1n4qh1rs2kd4e16e896p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9-wPdT309X8DuTUnrQar8zUXtvds3rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998339062661-bv52s4krm11hg0pejpf4v3033gvh8cta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998339062661:android:31e2ee4b03a46983beb2ec",
+        "android_client_info": {
+          "package_name": "dev.rainbowfores.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998339062661-h1mlpnij5qva1n4qh1rs2kd4e16e896p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn9-wPdT309X8DuTUnrQar8zUXtvds3rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998339062661-bv52s4krm11hg0pejpf4v3033gvh8cta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
